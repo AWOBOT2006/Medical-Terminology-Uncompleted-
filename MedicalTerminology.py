@@ -1,3 +1,6 @@
+#made by Darrien Drake
+#Published on 20260903
+
 from WordRoots import WordRoot
 from Prefixes import Prefix
 from Suffixes import Suffix
